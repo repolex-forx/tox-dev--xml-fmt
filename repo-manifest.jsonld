@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/xml-fmt/commit/eb813b447971a7d749372894b8115258b6ba5abb",
       "git:hexsha": "eb813b447971a7d749372894b8115258b6ba5abb",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T22:50:35.290458+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/xml-fmt/commit/95eae5bdc5db97f5777a609b0d3cb0d98ebeff25",
